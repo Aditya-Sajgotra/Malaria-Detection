@@ -13,7 +13,7 @@ The model was trained using the NIH Malaria Cell Images Dataset hosted on Kaggle
 ### Performance Results
 The model was evaluated on 5,512 unseen images (data it never saw during training) to ensure reliability:
 * **Test Accuracy:** 95.66%
-* **AUC Score:** 0.98 (Shows excellent class separation)
+* **AUC Score:** 0.98
 * **Validation Accuracy:** 97.1%
 
 ### Technical Approach
